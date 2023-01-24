@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Andres-Zetina/proffesional_READ.me_generator/issues"
   },
-  "homepage": "https://github.com/Andres-Zetina/proffesional_READ.me_generator#readme"
+  "homepage": "https://github.com/Andres-Zetina/proffesional_READ.me_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
