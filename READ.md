@@ -1,7 +1,7 @@
-# test
+# testproject
   test
 
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Table of Contents
   - [Installation](#installation)
@@ -16,28 +16,28 @@
   To install the dependencies, run the following command:
   
   ```
-  test
+  "npm i"
   ```
   
   ## Usage
   
-  test
+  test repo
   
   ## Contribution
   
-  test
+  test the generator!
   
   ## Test
   
   To run tests, run the following command:
   
   ```
-  test
+  "npm run test"
   ```
   
-  ## License this porject is license under the [Apache](https://opensource.org/licenses/Apache-2.0) license.
+  ## License this porject is license under the [MIT](https://opensource.org/licenses/MIT) license.
   
   ## Contact
   
   - GitHub: [undefined](https://github.com/undefined)
-  - Email: test
+  - Email: emailaddres@gmail.com
